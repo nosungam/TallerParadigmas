@@ -1,4 +1,4 @@
-# :computer: Ejercicios de Programacion Orientada a Objetos - Taller de Paradigmas de la programacion
+# :computer: Ejercicios de Programacion Orientada a Objetos - Taller Paradigmas de Programación
 
 ¡Bienvenidos al Taller de POO! Durante este taller, aprenderemos cómo organizar el código de una manera más lógica, clara y eficiente, mediante conceptos clave del paradigma. Exploraremos cómo, mediante diversos principios, modelar el mundo real dentro de un programa, haciéndolo de manera mantenible y escalable.
 
