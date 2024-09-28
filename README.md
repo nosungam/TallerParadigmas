@@ -21,7 +21,7 @@
 
 • Algunos ejercicio tendran una relacion directa con otros. En dicho caso se agruparan dentro de la misma carpeta.
 
-• Para dudas relacionadas, se habilita un servidor de [Discord](https://discord.gg/P2rrddnm).
+• Para dudas relacionadas, se habilita un servidor de [Discord](https://discord.gg/u2HDksveaZ).
 
 
 ## 👨‍🏫 Profesores del Curso
